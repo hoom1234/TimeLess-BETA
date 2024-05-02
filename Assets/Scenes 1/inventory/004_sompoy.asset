@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbdae0ba42de33042a8cf362d5f62177, type: 3}
+  m_Name: 004_sompoy
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  id: 004
+  itemname: "\u0E2A\u0E49\u0E21\u0E1B\u0E2D\u0E22"
+  description: wedgdshsut
+  maxStack: 10
+  gamePrefab: {fileID: 6835675950574931576, guid: 4f9f62696f81abd498d53da80c0b84a8, type: 3}

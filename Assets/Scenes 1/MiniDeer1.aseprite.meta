@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: af8806c9e0fcfec468badcc3254cdfe5
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: MiniDeer1_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 53
+      width: 14
+      height: 14
+    spriteID: f806f7e18faabd6408698f52113379f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 53}
+  - name: MiniDeer1_Frame_1
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 29
+      width: 15
+      height: 14
+    spriteID: 932aab67e532af249994b95f5304a01c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 29}
+  - name: MiniDeer1_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 76
+      width: 14
+      height: 13
+    spriteID: df99cc631c873334dadae18d7cdcd755
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 76}
+  - name: MiniDeer1_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 76
+      width: 14
+      height: 13
+    spriteID: 55f246de87d48864abd924e6b7741348
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 76}
+  - name: MiniDeer1_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 29
+      width: 14
+      height: 15
+    spriteID: 85484c066563b554eb0051729890464d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 29}
+  - name: MiniDeer1_Frame_5
+    originalName: 
+    pivot: {x: 0.57894737, y: -0.23076925}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 4
+      width: 19
+      height: 13
+    spriteID: 92bd26120a57a5048aa11b3af13f402c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 4}
+  - name: MiniDeer1_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 106
+      y: 4
+      width: 16
+      height: 14
+    spriteID: 2db56bed99b054748a63e254004b2afe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 4}
+  - name: MiniDeer1_Frame_7
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 76
+      width: 15
+      height: 13
+    spriteID: df6f4ebe8c8e35f4481842013d274716
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 76}
+  - name: MiniDeer1_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 29
+      width: 14
+      height: 16
+    spriteID: e533aeca8e2566f41801552e14a1c4c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 29}
+  - name: MiniDeer1_Frame_9
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 4
+      width: 15
+      height: 15
+    spriteID: c1bc288c335028b46add3e0a0dde1b9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 4}
+  - name: MiniDeer1_Frame_10
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.09090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 98
+      width: 15
+      height: 11
+    spriteID: ccbdd00a828c6ce4999625f6fa766f3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 98}
+  - name: MiniDeer1_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 53
+      width: 14
+      height: 14
+    spriteID: 7a4f5d82c3e4d72449555e8ecb86c2ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 53}
+  - name: MiniDeer1_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 53
+      width: 14
+      height: 14
+    spriteID: 26a9634bc3f0c2e40a8e9e559e136e7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 53}
+  - name: MiniDeer1_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 53
+      width: 14
+      height: 15
+    spriteID: 913189de1ea35e14eaeafd8117ac6a89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 53}
+  - name: MiniDeer1_Frame_14
+    originalName: 
+    pivot: {x: 0.3888889, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 4
+      width: 18
+      height: 16
+    spriteID: 020817f45327339439ceeaae27459f60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 4}
+  - name: MiniDeer1_Frame_15
+    originalName: 
+    pivot: {x: 0.3888889, y: -0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 18
+      height: 17
+    spriteID: 8ef3efea5f5ed9547937e6757f401412
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: MiniDeer1_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 29
+      width: 14
+      height: 16
+    spriteID: f8be338b9b827794c90f628dde95d42d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 29}
+  - name: MiniDeer1_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 98
+      width: 14
+      height: 12
+    spriteID: b767c0d083d2b1748a1cb7b5bbdb1e8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 98}
+  - name: MiniDeer1_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 76
+      width: 14
+      height: 14
+    spriteID: 865bf7a4a25290141a06f6c4291aeb85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 76}
+  - name: MiniDeer1_Frame_19
+    originalName: 
+    pivot: {x: 0.6666667, y: -0.09090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 98
+      width: 15
+      height: 11
+    spriteID: 283fb2eeb9570a444a7ef2dbec9910a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 98}
+  - name: MiniDeer1_Frame_20
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 98
+      width: 14
+      height: 13
+    spriteID: c1b1c2133060aba4fad143682e461258
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 98}
+  - name: MiniDeer1_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 76
+      width: 14
+      height: 14
+    spriteID: 5c678ba7fcb5945448410ecf6bb654d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 76}
+  - name: MiniDeer1_Frame_22
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 53
+      width: 15
+      height: 14
+    spriteID: 0b2c3f6a6b0326d4598f5882ea3eb860
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 53}
+  - name: MiniDeer1_Frame_23
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 29
+      width: 17
+      height: 13
+    spriteID: 7215d8c6fbe6d65459ae14ea4ce58a8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 29}
+  - name: MiniDeer1_Frame_24
+    originalName: 
+    pivot: {x: 0.36363637, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 98
+      width: 22
+      height: 6
+    spriteID: 35b363040e14795418196fc01247d06a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 98}
+  - name: MiniDeer1_Frame_25
+    originalName: 
+    pivot: {x: 0.36363637, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 117
+      width: 22
+      height: 5
+    spriteID: 8509595b4024944428ef045ade58eb99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 117}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1598434512
+    name: MiniDeer1
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: MiniDeer1_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 14
+      spriteId: f806f7e18faabd6408698f52113379f2
+    - name: MiniDeer1_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 8
+        y: 1
+        width: 15
+        height: 14
+      spriteId: 932aab67e532af249994b95f5304a01c
+    - name: MiniDeer1_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 13
+      spriteId: df99cc631c873334dadae18d7cdcd755
+    - name: MiniDeer1_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 13
+      spriteId: 55f246de87d48864abd924e6b7741348
+    - name: MiniDeer1_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 15
+      spriteId: 85484c066563b554eb0051729890464d
+    - name: MiniDeer1_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 5
+        y: 3
+        width: 19
+        height: 13
+      spriteId: 92bd26120a57a5048aa11b3af13f402c
+    - name: MiniDeer1_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 8
+        y: 1
+        width: 16
+        height: 14
+      spriteId: 2db56bed99b054748a63e254004b2afe
+    - name: MiniDeer1_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 8
+        y: 1
+        width: 15
+        height: 13
+      spriteId: df6f4ebe8c8e35f4481842013d274716
+    - name: MiniDeer1_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 16
+      spriteId: e533aeca8e2566f41801552e14a1c4c4
+    - name: MiniDeer1_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 8
+        y: 1
+        width: 15
+        height: 15
+      spriteId: c1bc288c335028b46add3e0a0dde1b9e
+    - name: MiniDeer1_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 8
+        y: 1
+        width: 15
+        height: 11
+      spriteId: ccbdd00a828c6ce4999625f6fa766f3c
+    - name: MiniDeer1_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 14
+      spriteId: 7a4f5d82c3e4d72449555e8ecb86c2ea
+    - name: MiniDeer1_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 14
+      spriteId: 26a9634bc3f0c2e40a8e9e559e136e7f
+    - name: MiniDeer1_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 15
+      spriteId: 913189de1ea35e14eaeafd8117ac6a89
+    - name: MiniDeer1_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 9
+        y: 1
+        width: 18
+        height: 16
+      spriteId: 020817f45327339439ceeaae27459f60
+    - name: MiniDeer1_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 9
+        y: 1
+        width: 18
+        height: 17
+      spriteId: 8ef3efea5f5ed9547937e6757f401412
+    - name: MiniDeer1_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 16
+      spriteId: f8be338b9b827794c90f628dde95d42d
+    - name: MiniDeer1_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 12
+      spriteId: b767c0d083d2b1748a1cb7b5bbdb1e8e
+    - name: MiniDeer1_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 14
+      spriteId: 865bf7a4a25290141a06f6c4291aeb85
+    - name: MiniDeer1_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 6
+        y: 1
+        width: 15
+        height: 11
+      spriteId: 283fb2eeb9570a444a7ef2dbec9910a0
+    - name: MiniDeer1_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 8
+        y: 1
+        width: 14
+        height: 13
+      spriteId: c1b1c2133060aba4fad143682e461258
+    - name: MiniDeer1_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 14
+      spriteId: 5c678ba7fcb5945448410ecf6bb654d3
+    - name: MiniDeer1_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 9
+        y: 1
+        width: 15
+        height: 14
+      spriteId: 0b2c3f6a6b0326d4598f5882ea3eb860
+    - name: MiniDeer1_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 9
+        y: 1
+        width: 17
+        height: 13
+      spriteId: 7215d8c6fbe6d65459ae14ea4ce58a8a
+    - name: MiniDeer1_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 8
+        y: 1
+        width: 22
+        height: 6
+      spriteId: 35b363040e14795418196fc01247d06a
+    - name: MiniDeer1_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 8
+        y: 1
+        width: 22
+        height: 5
+      spriteId: 8509595b4024944428ef045ade58eb99
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}
